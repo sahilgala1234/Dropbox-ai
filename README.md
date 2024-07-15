@@ -14,11 +14,6 @@ As you can see the LLM App enables AI-powered search from multiple unstructured 
 
 There are 3 ways to run the app:
 
-### Run with Conda
-
-For a step-by-step walkthrough in real time (~7 mins) check out the video below:
-
-[![Thumbnail of YouTube walkthrough](assets/yt-thumbnail.png)](https://youtu.be/PbSAYHi5gnM?si=GAi3hYFTiJMO0EQH)
 
 ### Run with Docker
 
